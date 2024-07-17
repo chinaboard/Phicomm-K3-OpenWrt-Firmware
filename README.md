@@ -1,16 +1,16 @@
 
 # Phicomm K3 OpenWrt Firmware 🚀
-该项目提供了针对 Phicomm K3 路由器的 OpenWrt 固件，旨在提供更多功能和定制选项。
+本项目提供了针对 Phicomm K3 路由器的 OpenWrt 固件，旨在提供更多功能和定制选项。
 
 后台地址：[10.0.0.1](http://10.0.0.1)
 
-该固件基于 [Lean 的 OpenWrt 源码](https://github.com/coolsnowwolf/lede)，并整合了以下主要插件及功能。
+固件基于 [Lean 的 OpenWrt 源码](https://github.com/coolsnowwolf/lede)，并整合了以下主要插件及功能。
 
 ## 一、主要插件
 
 - [Adguardhome](https://github.com/kongfl888/luci-app-adguardhome) 🛡️
 - [OpenClash](https://github.com/vernesong/OpenClash) 🌐
-- [K3 Screen](https://github.com/lwz322/k3screenctrl_build)🖥️
+- [K3 Screen](https://github.com/lwz322/k3screenctrl_build) 🖥️
 
 保留配置更新固件后，插件的配置可能会丢失，请注意备份
 
