@@ -4,7 +4,7 @@
 
 后台地址：[10.0.0.1](http://10.0.0.1)
 
-固件基于 [Lean 的 OpenWrt 源码](https://github.com/coolsnowwolf/lede)，并整合了以下主要插件及功能。
+固件基于 Lean 的 [OpenWrt](https://github.com/coolsnowwolf/lede) 源码，并整合了以下主要插件及功能。
 
 ## 一、主要插件
 
